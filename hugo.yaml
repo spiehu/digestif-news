@@ -1,6 +1,6 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://example.com/"
+baseURL: "https://partner.spie-agis.hu/"
 title: SPIE szerviz partner
 copyright: "© [SPIE AGIS Fire & Security Kft](https://spie-agis.hu/) 2026"
 theme: PaperMod
